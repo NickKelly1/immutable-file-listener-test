@@ -1,1 +1,1 @@
-export const LOG_FILE_NAME = "log.log";
+export const LOG_FILE_NAME = "log2.log";
